@@ -3,7 +3,7 @@
 - Currently the data science trainer at LSE Digital Skills Lab.
 - 🔭 Focusing on Advanced Deep Learning algorithms
 
-Recent Projects⚡
+## Recent Projects⚡
 |Project Area    | Name of the Project                        |
 |---------------:|--------------------------------------------|
 |Computer Vision |ColorVision Assist using cv2                |
@@ -12,9 +12,8 @@ Recent Projects⚡
 |Speech Processing  | Voice Commands Decoded: Tensorflow Speech-to-Text Model |
 |Artificial Intelligence |  Image classification through VGG16 |
 
-<details>
-<summary> 🌱 Coursework</summary>
-  
+## 🌱 Coursework
+
 |Code    | Name                       |
 |-------:|----------------------------|
 |ST449 | Artificial Intelligence      |
@@ -24,7 +23,6 @@ Recent Projects⚡
 |MY472 | Data for Data Scientists with Cloud Computing|
 |MY470 | Computer Programming|
 
-</details>
 
 
 
