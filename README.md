@@ -6,12 +6,11 @@
 Recent Projects⚡
 |Project Area    | Name of the Project                        |
 |---------------:|--------------------------------------------|
-|Computer Vision |               |
-|Computer Vision |               |
-|Computer Vision |               |
-|Natural Language Proecessing |
-|Speech-to-Text  |
-|Artificial Intelligence |
+|Computer Vision |ColorVision Assist using cv2                |
+|Deep Learning |  CIFAR-10 Image Classification with PyTorch |
+|Natural Language Proecessing | Sentiment Analysis on webscraped reviews |
+|Speech Processing  | Voice Commands Decoded: Tensorflow Speech-to-Text Model |
+|Artificial Intelligence |  Image classification through VGG16 |
 
 <details>
 <summary> 🌱 Coursework</summary>
