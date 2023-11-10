@@ -1,6 +1,7 @@
 ### Hi there 👋
-- Experienced data scientist with masters in Data Science from London School of Economics. Currently the data science trainer at LSE Digital Skills Lab.
-- 🔭 I’m currently focusing on Advanced Deep Learning algorithms
+- Experienced data scientist with masters in Data Science from London School of Economics.
+- Currently the data science trainer at LSE Digital Skills Lab.
+- 🔭 Focusing on Advanced Deep Learning algorithms
   
 Recent Projects⚡
 |Project Area    | Name of the Project                        |
