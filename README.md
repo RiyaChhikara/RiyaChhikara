@@ -7,7 +7,7 @@
 |Computer Vision |               |
 |NLP             |
 |Speech-to-Text  |
-|Artificial Int. |
+|Artificial Intelligence |
 
 - 🔭 I’m currently working on ..
   
