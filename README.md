@@ -3,9 +3,7 @@
 - Currently the data science trainer at LSE Digital Skills Lab.
 - 🔭 Focusing on Advanced Deep Learning algorithms
 
-<details>
-<summary>Recent Projects⚡</summary>
-
+Recent Projects⚡
 |Project Area    | Name of the Project                        |
 |---------------:|--------------------------------------------|
 |Computer Vision |               |
@@ -14,6 +12,15 @@
 |Natural Language Proecessing |
 |Speech-to-Text  |
 |Artificial Intelligence |
+
+<details>
+<summary> 🌱 Coursework</summary>
+1.  ST449 Artificial Intelligence
+2.  MY474 Machine Learning
+3. ST446 Distributed Computing for Big Data
+4. ST456 Deep Learning
+5. MY472 Data for Data Scientists with Cloud Computing
+6. MY470 Computer Programming
 
 </details>
 
