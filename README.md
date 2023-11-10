@@ -1,9 +1,9 @@
 ### Hi there 👋
 - Experienced data scientist with masters in Data Science from London School of Economics.
-- Currently the data science trainer at LSE Digital Skills Lab.
-- 🔭 Focusing on Advanced Deep Learning algorithms
+- Currently data science trainer at LSE Digital Skills Lab for Python, R, SQL.
+- 🔭 Focusing on Advanced Deep Learning algorithms.
 
-## Recent Projects⚡
+### Recent Projects⚡
 |Project Area    | Name of the Project                        |
 |---------------:|--------------------------------------------|
 |Computer Vision |ColorVision Assist using cv2                |
@@ -12,7 +12,7 @@
 |Speech Processing  | Voice Commands Decoded: Tensorflow Speech-to-Text Model |
 |Artificial Intelligence |  Image classification through VGG16 |
 
-## 🌱 Coursework
+### 🌱 Coursework
 
 |Code    | Name                       |
 |-------:|----------------------------|
