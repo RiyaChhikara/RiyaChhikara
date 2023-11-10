@@ -1,15 +1,18 @@
 ### Hi there 👋
-
+- Experienced data scientist with masters in Data Science from London School of Economics. Currently the data science trainer at LSE Digital Skills Lab.
+- 🔭 I’m currently focusing on Advanced Deep Learning algorithms
+  
+Recent Projects⚡
 |Project Area    | Name of the Project                        |
 |---------------:|--------------------------------------------|
 |Computer Vision |               |
 |Computer Vision |               |
 |Computer Vision |               |
-|NLP             |
+|Natural Language Proecessing |
 |Speech-to-Text  |
 |Artificial Intelligence |
 
-- 🔭 I’m currently working on ..
+
   
 <!--
 **RiyaChhikara/RiyaChhikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
