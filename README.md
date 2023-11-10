@@ -2,8 +2,10 @@
 - Experienced data scientist with masters in Data Science from London School of Economics.
 - Currently the data science trainer at LSE Digital Skills Lab.
 - 🔭 Focusing on Advanced Deep Learning algorithms
-  
-Recent Projects⚡
+
+<details>
+<summary>Recent Projects⚡</summary>
+
 |Project Area    | Name of the Project                        |
 |---------------:|--------------------------------------------|
 |Computer Vision |               |
@@ -12,6 +14,9 @@ Recent Projects⚡
 |Natural Language Proecessing |
 |Speech-to-Text  |
 |Artificial Intelligence |
+
+</details>
+
 
 
   
