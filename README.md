@@ -15,14 +15,15 @@ Recent Projects⚡
 
 <details>
 <summary> 🌱 Coursework</summary>
-  |Code    | Name                       |
-  |-------:|----------------------------|
-  |ST449 | Artificial Intelligence      |
-  |MY474 | Machine Learning             |
-  |ST446 |  Distributed Computing for Big Data  |
-  |ST456 | Deep Learning                |
-  |MY472 | Data for Data Scientists with Cloud Computing|
-  |MY470 | Computer Programming|
+  
+|Code    | Name                       |
+|-------:|----------------------------|
+|ST449 | Artificial Intelligence      |
+|MY474 | Machine Learning             |
+|ST446 |  Distributed Computing for Big Data  |
+|ST456 | Deep Learning                |
+|MY472 | Data for Data Scientists with Cloud Computing|
+|MY470 | Computer Programming|
 
 </details>
 
