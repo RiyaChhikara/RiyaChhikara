@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Experienced data scientist with masters in Data Science from London School of Economics.
-- Currently data science trainer at LSE Digital Skills Lab for Python, R, SQL.
+- Experienced data scientist working at The Economist, London
+- Teach data science courses at LSE Data Science Institute
 - 🔭 Focusing on Advanced Deep Learning algorithms.
 
 ### Recent Projects⚡
